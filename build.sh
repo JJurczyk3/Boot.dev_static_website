@@ -1,0 +1,1 @@
+python3 src/main.py "/Boot.dev_static_website/"
